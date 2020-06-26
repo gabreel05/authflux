@@ -23,7 +23,7 @@
 
 ##### Note: You need a emulator or a device connected to the computer. You can see this <a href="https://react-native.rocketseat.dev/">Docs</a>
 
-1. Clone this repo using <code>https://github.com/gabreel05/ecoleta-mobile.git</code>
+1. Clone this repo using <code>https://github.com/gabreel05/authflux.git</code>
 2. Move to the appropiate directory: <code>cd mobile</code>
 3. Run <code>yarn</code> or <code>npm install</code> to install the dependencies
 4. Run <code>yarn start</code> or <code>npm start</code> to start the development server
