@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "todo_app",
-    "slug": "todo_app",
+    "name": "authflux",
+    "slug": "authflux",
     "platforms": [
       "ios",
       "android",
